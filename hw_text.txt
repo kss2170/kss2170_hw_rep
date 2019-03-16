@@ -1,2 +1,3 @@
 This is a text file for my hw.
-It has not been changed yet.
+It has been changed once.
+I added this as a change, 1.
